@@ -20,20 +20,25 @@ h1 {
 
 main {
     padding: 20px;
+    margin-left: 50px;
 }
 
 #social-links-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 250px));  /* You can adjust the min/max size here to control card size */
+    gap: 100px;
+    text-align: center;
 }
 
+/* Styling each social link card */
 .social-link {
+    text-align: center;
     background-color: #333;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s;
+    overflow: hidden;
 }
 
 .social-link:hover {
@@ -54,6 +59,30 @@ main {
     color: #CCCCCC;
 }
 
+/* Button to toggle showing more information */
+.toggle-button {
+    display: inline-block;
+    background-color: #FFA500;
+    color: #121212;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.toggle-button:hover {
+    background-color: #ffcc66;
+}
+
+/* Hidden by default for the "Show More" content */
+.more-info {
+    display: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .rank-responses {
     margin-top: 10px;
 }
@@ -71,4 +100,10 @@ main {
 
 .rank-response strong {
     color: #FFA500;
+}
+
+/* Card size control */
+.social-link {
+    width: 100%;  /* This adjusts card width */
+    height: auto; /* You can set a fixed height like height: 300px; if you want a specific card height */
 }
