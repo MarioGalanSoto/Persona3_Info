@@ -1,0 +1,1274 @@
+[
+    {
+        "Arcana": "Fool",
+        "Name": "SEES",
+        "Availability": "Story progression",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocked on 4/18"
+    },
+    {
+        "Arcana": "Magician",
+        "Name": "Kenji",
+        "Availability": "Tuesdays, Thursdays, and Fridays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "I'm into older women, too. +1",
+                "Option_2": "I prefer girls my age. +0",
+                "Option_3": "I like them all! +1"
+            },
+            "Rank 03": {
+                "Option_1": "Sounds impossible. +0",
+                "Option_2": "Good luck! +1",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Good luck! +3",
+                "Option_2": "Don't do it. +0",
+                "Option_3": "Whatever, man. +0"
+            },
+            "Rank 05": {
+                "Option_1": "...Is that so? +1",
+                "Option_2": "Okay... +3",
+                "Option_3": "Good-looking, huh? +0"
+            },
+            "Rank 06": {
+                "Option_1": "I've got plans already. +3",
+                "Option_2": "Yeah, more than you do. +0",
+                "Option_3": "Not even a little. +0"
+            },
+            "Rank 07": {
+                "Option_1": "Congrats! +1",
+                "Option_2": "You're rushing things. +0",
+                "Option_3": "Sure, whatever. +0"
+            },
+            "Rank 08": {
+                "Option_1": "You should go with her. +1",
+                "Option_2": "You should talk it out. +1",
+                "Option_3": "Figure it out yourself. +0"
+            },
+            "Rank 09": {
+                "Option_1": "Cheer up, man. +0",
+                "Option_2": "Let me handle this! +3",
+                "Option_3": "Haha. +0"
+            },
+            "Rank 10": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 4/22 by accepting Kenji's invite"
+    },
+    {
+        "Arcana": "Priestess",
+        "Name": "Fuuka",
+        "Availability": "Mondays, Fridays, and Saturdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "Sure thing. +3",
+                "Option_2": "Will it be good next time? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "Go to the bookstore. +0",
+                "Option_2": "I'll help you find something. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "That's not true. +3",
+                "Option_2": "Maybe you're right. +0",
+                "Option_3": "Why do you think that? +1"
+            },
+            "Rank 05": {
+                "Option_1": "Thank you. +1",
+                "Option_2": "I think I get it. +0",
+                "Option_3": "Can you make more sometime? +3"
+            },
+            "Rank 06": {
+                "Option_1": "That's the spirit. +3",
+                "Option_2": "Don't get too carried away. +0",
+                "Option_3": "You're already plenty useful. +1"
+            },
+            "Rank 07": {
+                "Option_1": "Is that the only reason? +0",
+                "Option_2": "That's probably it. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "Not at all. +1",
+                "Option_2": "We'll see each other in the dorm. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Sure. +3",
+                "Option_2": "I'm not confident. +0",
+                "Option_3": "What are you gonna make? +0"
+            },
+            "Rank 10": {
+                "Option_1": "I love them! +3",
+                "Option_2": "Your skills are impressive. +1",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Requires Rank 1 Fortune and Courage Rank 6"
+    },
+    {
+        "Arcana": "Empress",
+        "Name": "Mitsuru",
+        "Availability": "Tuesdays, Thursdays, and Saturdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "I'm rooting for you. +0",
+                "Option_2": "I heard nothing. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Do you have a boyfriend? +0",
+                "Option_2": "That's a tough one. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "What a high-class biker. +1",
+                "Option_2": "Let's go for a ride. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Are you sure about this? +1",
+                "Option_2": "That's admirable. +0",
+                "Option_3": "I'll do something about it. +3"
+            },
+            "Rank 07": {
+                "Option_1": "I don't mind at all. +3",
+                "Option_2": "Is that all you need? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "Don't sweat it. +0",
+                "Option_2": "You were awesome. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "That's a relief. +3",
+                "Option_2": "Never let go of that. +1",
+                "Option_3": "This is your strength. +1"
+            },
+            "Rank 10": {
+                "Option_1": "I'll give it a try. +3",
+                "Option_2": "I'm fine with the back. +1",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 11/21 with Academics Rank 6"
+    },
+    {
+        "Arcana": "Emperor",
+        "Name": "Hidetoshi",
+        "Availability": "Mondays, Wednesdays, and Fridays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "They've got a point +0",
+                "Option_2": "Sounds like nonsense. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "What happened? +1",
+                "Option_2": "No need to fight. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "You went a little overboard. +0",
+                "Option_2": "Looks like you're hard at work. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "They're the worst. +3",
+                "Option_2": "You shouldn't accuse everyone. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "But I just got here... +3",
+                "Option_2": "I think I'll stick around. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "It seems reasonable. +0",
+                "Option_2": "It seems too harsh. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "It wasn't me. +3",
+                "Option_2": "You stood up for me? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Don't blame yourself. +3",
+                "Option_2": "What matters is you realized it. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "I cherish it. +3",
+                "Option_2": "I guess I'll take it. +3",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 4/27"
+    },
+    {
+        "Arcana": "Hierophant",
+        "Name": "Old Couple",
+        "Availability": "Every day except Mondays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "He's what? +0",
+                "Option_2": "What's this about? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "I'm sorry to hear that. +0",
+                "Option_2": "That's terrible luck. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "No, I don't. +0",
+                "Option_2": "I'm worried. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "Cheer up. +1",
+                "Option_2": "It'll be ok. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Cheer up. +0",
+                "Option_2": "I'm sure it'll be okay. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "No. +1",
+                "Option_2": "That's right. +1",
+                "Option_3": "What are you talking about? +1"
+            },
+            "Rank 08": {
+                "Option_1": "Sure, let's go. +3",
+                "Option_2": "Right now? +3",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Excited. +0",
+                "Option_2": "Exhilarated. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "That's true. +0",
+                "Option_2": "Are you really sure? +0",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 4/25 by showing the Persimmon Leaf"
+    },
+    {
+        "Arcana": "Lovers",
+        "Name": "Yukari",
+        "Availability": "Mondays, Wednesdays, Thursdays, and Saturdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "That's mean. +1",
+                "Option_2": "Invite me over, then. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "What makes you say that? +0",
+                "Option_2": "...... +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Who was that? +0",
+                "Option_2": "What was that about? +0",
+                "Option_3": "Are you OK? +3"
+            },
+            "Rank 05": {
+                "Option_1": "I'm sorry. +3",
+                "Option_2": "It's okay to rely on others. +0",
+                "Option_3": "You're a girl, so... -1 Rank"
+            },
+            "Rank 06": {
+                "Option_1": "I wouldn't mind. +1",
+                "Option_2": "Yeah... +0",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Sounds good. +3",
+                "Option_2": "Let's go with everyone. +1",
+                "Option_3": "Let's go just the two of us. +3"
+            },
+            "Rank 08": {
+                "Option_1": "Will you let her do it? +0",
+                "Option_2": "Do you want to see her? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "I love you. (Romance)",
+                "Option_2": "You're a precious friend. (Friendship)",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "Too late. +3",
+                "Option_2": "I didn't say anything. +1",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 7/25 with Charm Rank 6"
+    },
+    {
+        "Arcana": "Chariot",
+        "Name": "Kazushi",
+        "Availability": "Mondays, Tuesdays, Thursdays, and Fridays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "Wanna walk home together? (Strength Social Link)",
+                "Option_2": "Nothing, see you tomorrow.",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "Will it heal? +1",
+                "Option_2": "Take a break from practice. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "How did it go? +0",
+                "Option_2": "That really sucks. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "Take my shoulder! +3",
+                "Option_2": "I'll carry you! +1",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Do you think that you can win? +0",
+                "Option_2": "What about your knee? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "You have to get tougher! +3",
+                "Option_2": "You can't win like this. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "I don't know anything. +0",
+                "Option_2": "...... +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "I don't mind at all. +3",
+                "Option_2": "No, not exactly. +0",
+                "Option_3": "It's fine - I'm tough as hell. +1"
+            },
+            "Rank 10": {
+                "Option_1": "You've got this! +1",
+                "Option_2": "You've really grown up. +1",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 4/23 by joining Track Team"
+    },
+    {
+        "Arcana": "Justice",
+        "Name": "Chihiro",
+        "Availability": "Tuesdays, Thursdays, and Saturdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "I shouldn't have asked. +0",
+                "Option_2": "I'm sorry. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "I agree. +1",
+                "Option_2": "That's kind of extreme... +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Let's hold hands. +0",
+                "Option_2": "I'm here for you. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "Hold her hand +3",
+                "Option_2": "Kiss her -1 Rank",
+                "Option_3": "Speak to her softly +0"
+            },
+            "Rank 06": {
+                "Option_1": "What do you think now? +0",
+                "Option_2": "What do you mean? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Don't worry. +0",
+                "Option_2": "We have to do something... +1",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "The rumors will stop soon. +0",
+                "Option_2": "I know you're innocent. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Sure thing. +0",
+                "Option_2": "Yeah, friends. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "It's getting late. +0",
+                "Option_2": "Lock your doors. +0",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Requires unlocking Emperor Social Link"
+    },
+    {
+        "Arcana": "Hermit",
+        "Name": "Maya",
+        "Availability": "Sundays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "Don't you like video games? +0",
+                "Option_2": "Sunshine is overrated. +1",
+                "Option_3": "Guess we're loners. +0"
+            },
+            "Rank 03": {
+                "Option_1": "You don't like your Job? +3",
+                "Option_2": "Are you burned out? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Don't wanna get married? +0",
+                "Option_2": "You'll need a boyfriend first. +0",
+                "Option_3": "Let's plan our wedding, then. +3"
+            },
+            "Rank 05": {
+                "Option_1": "A drunken master? +1",
+                "Option_2": "Maya's a reporter, right? +0",
+                "Option_3": "Are you a teacher? +1"
+            },
+            "Rank 06": {
+                "Option_1": "Calm down. +0",
+                "Option_2": "What bastard? +3",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "She, um... what? +1",
+                "Option_2": "Calm down. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "What is he like? +1",
+                "Option_2": "Are you gonna ask him out? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "What are you planning? +1",
+                "Option_2": "This won't change anything. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "This is sudden. +0",
+                "Option_2": "I'll miss you. +3",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 4/29 by playing Innocent Sin Online"
+    },
+    {
+        "Arcana": "Fortune",
+        "Name": "Keisuke",
+        "Availability": "Tuesdays, Wednesdays, and Thursdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "\"Strikes again\"? +0",
+                "Option_2": "Is that a problem? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "Good work, Doc Junior. +0",
+                "Option_2": "Will he be okay? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Complaining to me won't help you. +3",
+                "Option_2": "So you're just gonna take it? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "You should tell your dad! +3",
+                "Option_2": "Now you don't have to quit! +3",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Will you study abroad? +1",
+                "Option_2": "It's your choice now. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Do you want to be a doctor? +3",
+                "Option_2": "Do you like art club? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "Do you think you want to be one? +0",
+                "Option_2": "Don't beat yourself up about it. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Better leave him alone. +0",
+                "Option_2": "I could rub his back. +0",
+                "Option_3": "I'll lay him on his back. +0"
+            },
+            "Rank 10": {
+                "Option_1": "Not at all. +3",
+                "Option_2": "You kinda are. +1",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 6/17 by joining Art Club"
+    },
+    {
+        "Arcana": "Strength",
+        "Name": "Yuko",
+        "Availability": "Wednesdays and Saturdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "That's true. +3",
+                "Option_2": "I don't think so. +0",
+                "Option_3": "You haven't thought about it? +0"
+            },
+            "Rank 03": {
+                "Option_1": "I'm honored. +1",
+                "Option_2": "I don't mind. +1",
+                "Option_3": "It might be a problem. +0"
+            },
+            "Rank 04": {
+                "Option_1": "Sure thing. +1",
+                "Option_2": "It's kind of a hassle. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "You shouldn't change it. +1",
+                "Option_2": "Maybe you should rethink it. +0",
+                "Option_3": "I trust whatever you decide, Yuko. +1"
+            },
+            "Rank 06": {
+                "Option_1": "It's gonna be tough. +0",
+                "Option_2": "As long as we believe in them. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Let's do it. +3",
+                "Option_2": "Why? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "A boy. +1",
+                "Option_2": "A girl. +1",
+                "Option_3": "I don't care. +0"
+            },
+            "Rank 09": {
+                "Option_1": "Okay, I will. +1",
+                "Option_2": "Why? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "I see. +0",
+                "Option_2": "What does that mean? +1",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Requires Track Team Rank 1"
+    },
+    {
+        "Arcana": "Hanged",
+        "Name": "Maiko",
+        "Availability": "Mondays, Wednesdays, and Saturdays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "Calm her down. +0",
+                "Option_2": "Wait for her to finish. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "He'll probably forget. +0",
+                "Option_2": "I really can't say. +0",
+                "Option_3": "Don't worry, he'll be there. +3"
+            },
+            "Rank 04": {
+                "Option_1": "That's great news. +3",
+                "Option_2": "Of course they care. +3",
+                "Option_3": "Nah, they don't care. +0"
+            },
+            "Rank 05": {
+                "Option_1": "It's possible. +0",
+                "Option_2": "They would never. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "That should be enough. +3",
+                "Option_2": "It'll take more than that. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Maybe the music store. +0",
+                "Option_2": "Maybe the takoyaki stand. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "Your dad. +3",
+                "Option_2": "Your mom. +0",
+                "Option_3": "You decide. +0"
+            },
+            "Rank 09": {
+                "Option_1": "Friends forever. +3",
+                "Option_2": "I might forget about you. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "Sure. +3",
+                "Option_2": "I'll think about it. +0",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 5/6 by talking to Maiko"
+    },
+    {
+        "Arcana": "Death",
+        "Name": ".",
+        "Availability": "Story progression",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks on 6/12"
+    },
+    {
+        "Arcana": "Temperance",
+        "Name": "Bebe",
+        "Availability": "Tuesdays, Wednesdays, and Fridays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "I totally agree. +3",
+                "Option_2": "What about your country? +0",
+                "Option_3": "It's not that great. +0"
+            },
+            "Rank 03": {
+                "Option_1": "What do you like? +0",
+                "Option_2": "Why not western clothes? +1",
+                "Option_3": "How about a kimono? +3"
+            },
+            "Rank 04": {
+                "Option_1": "What happened? +0",
+                "Option_2": "Calm down. +0",
+                "Option_3": "That's terrible. +0"
+            },
+            "Rank 05": {
+                "Option_1": "You have to accept it. +0",
+                "Option_2": "Just stay in Japan! +1",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "I have your back! +3",
+                "Option_2": "What will you do? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Will that be enough? +1",
+                "Option_2": "That's a great idea. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "When will it be done? +1",
+                "Option_2": "He'll definitely agree! +3",
+                "Option_3": "Less talk, more work. +0"
+            },
+            "Rank 09": {
+                "Option_1": "Congrats! +1",
+                "Option_2": "Aren't you homesick? +3",
+                "Option_3": "Don't forget, you owe me. +0"
+            },
+            "Rank 10": {
+                "Option_1": "I'll be waiting for you. +3",
+                "Option_2": "Good luck out there. +3",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks after Elderly Couple Rank 3"
+    },
+    {
+        "Arcana": "Devil",
+        "Name": "Tanaka",
+        "Availability": "Tuesdays and Saturdays (Evenings)",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "Wow. +1",
+                "Option_2": "Can you even sell those? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "Maybe a little. +3",
+                "Option_2": "Not at all. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Sure have! +3",
+                "Option_2": "Is that possible? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "It's all about the money... +1",
+                "Option_2": "How bad is it? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Sounds fun. +3",
+                "Option_2": "Sounds like a hassle. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "The organic one. +3",
+                "Option_2": "The one that looks good. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "You must've misheard. +1",
+                "Option_2": "Why would he say that? +3",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Are you going to donate? +3",
+                "Option_2": "You're not gonna donate? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Requires Rank 4 Hermit Social Link"
+    },
+    {
+        "Arcana": "Tower",
+        "Name": "Mutatsu",
+        "Availability": "Thursdays, Fridays, Saturdays, and Sundays (Evenings)",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "Oolong Tea.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "How should I address you? +1",
+                "Option_2": "Show respect? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "I can't say I don't. +0",
+                "Option_2": "I don't have any friends. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Yeah, that might look cool. +3",
+                "Option_2": "Yeah, I dunno... +0",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "Yes. +1",
+                "Option_2": "No. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "You live by yourself? +0",
+                "Option_2": "Do you have any coworkers? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "Really? +0",
+                "Option_2": "You probably shouldn't... +3",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "Do you miss your family? +0",
+                "Option_2": "Are you running away? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "What's this about? +1",
+                "Option_2": "I don't really care. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "That's awesome. +3",
+                "Option_2": "It's missing something. +3",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Requires Strength Rank 4 and Courage Rank 4"
+    },
+    {
+        "Arcana": "Star",
+        "Name": "Mamoru",
+        "Availability": "Wednesdays, Fridays, and Sundays",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "You. +1",
+                "Option_2": "Myself. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "Sounds like fun. +1",
+                "Option_2": "That sounds rough. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Hard to say. +0",
+                "Option_2": "Yea, I bet it would. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "But what? +0",
+                "Option_2": "I'll come back here with you. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Well, what happened? +0",
+                "Option_2": "Don't worry, it's okay. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "You have to accept it. +0",
+                "Option_2": "Don't give up yet. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "It sure was. +1",
+                "Option_2": "Don't sweat it. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Thanks! +1",
+                "Option_2": "Don't put yourself out!",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "What's this for? +0",
+                "Option_2": "But I can't drive yet. +0",
+                "Option_3": "NaN"
+            }
+        },
+        "How_to_Unlock": "Unlocks after the competition on 8/2"
+    },
+    {
+        "Arcana": "Moon",
+        "Name": "Nozomi",
+        "Availability": "NaN",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "Give him an Odd Morsel.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "Sure, why not. +3",
+                "Option_2": "Not really, no. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "Nozomi Suemitsu. +0",
+                "Option_2": "The Gourmet King. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Did you eat too much? +0",
+                "Option_2": "Are you feeling sick? +3",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "That's right. +3",
+                "Option_2": "Sorry, what? +0",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "Does this happen a lot? +1",
+                "Option_2": "Did you eat too much? +0",
+                "Option_3": "Are you sick? +3"
+            },
+            "Rank 07": {
+                "Option_1": "That's insane! +0",
+                "Option_2": "No way I'm paying that. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "You do look thinner. +0",
+                "Option_2": "No, you're not. +3",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "You're gonna scam them, too?",
+                "Option_2": "Just knock it off. +0",
+                "Option_3": "*Both these options will trigger a Rank Reversal but it's fake"
+            },
+            "Rank 10": {
+                "Option_1": "Just be yourself. +3",
+                "Option_2": "You're irreplaceable. +3",
+                "Option_3": "NaN"
+            }
+        }
+    },
+    {
+        "Arcana": "Sun",
+        "Name": "Akinari",
+        "Availability": "NaN",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "You have a point. +1",
+                "Option_2": "I don't agree. +0",
+                "Option_3": "I've never thought about that... +0"
+            },
+            "Rank 03": {
+                "Option_1": "Don't worry, you're not. +0",
+                "Option_2": "Try not to talk too much. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "Of course I do. +0",
+                "Option_2": "I stop if I get bored. +1",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "You need to listen to your body. +3",
+                "Option_2": "Maybe you should go rest?",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "It sounds interesting. +3",
+                "Option_2": "It needs work. +0",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "That's a good story.",
+                "Option_2": "It sounds really depressing.+3",
+                "Option_3": "I've heard that one before."
+            },
+            "Rank 08": {
+                "Option_1": "That's dangerous.",
+                "Option_2": "Why did you stop? +1",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "Free from what?",
+                "Option_2": "You finished your story? +3",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        }
+    },
+    {
+        "Arcana": "Judgement",
+        "Name": "Nyx",
+        "Availability": "NaN",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "*Automatic with story progression.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        }
+    },
+    {
+        "Arcana": "Aeon",
+        "Name": "Aegis",
+        "Availability": "NaN",
+        "Responses": {
+            "Rank 01": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 02": {
+                "Option_1": "I like it here.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 03": {
+                "Option_1": "That's not true.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 04": {
+                "Option_1": "All right.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 05": {
+                "Option_1": "You might be right.",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 06": {
+                "Option_1": "No, you didn't.",
+                "Option_2": "He thought I was your boyfriend.",
+                "Option_3": "NaN"
+            },
+            "Rank 07": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            },
+            "Rank 08": {
+                "Option_1": "It's love. (Potential romance flag)",
+                "Option_2": "Because we're friends. (Friendship)",
+                "Option_3": "NaN"
+            },
+            "Rank 09": {
+                "Option_1": "I love you too. (Romance)",
+                "Option_2": "Sorry, but I can't (Friendship)",
+                "Option_3": "NaN"
+            },
+            "Rank 10": {
+                "Option_1": "NaN",
+                "Option_2": "NaN",
+                "Option_3": "NaN"
+            }
+        }
+    }
+]
